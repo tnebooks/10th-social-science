@@ -5,9 +5,9 @@ weight: 3
 
   
 
-**Introduction** The first half of the twentieth century
+# Introduction 
 
-witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars because of the extended areas of the conflict and the very high death toll of civilians as well as armed combatants. Both wars were fought on several fronts across Europe, Asia and Africa.
+The first half of the twentieth century witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars because of the extended areas of the conflict and the very high death toll of civilians as well as armed combatants. Both wars were fought on several fronts across Europe, Asia and Africa.
 
 In both wars, the combined forces of Great Britain, France, Russia and the United States fought against a war alliance led by Germany. Germany’s allies were Italy and Japan in World War II.
 
@@ -15,33 +15,11 @@ In both wars, the combined forces of Great Britain, France, Russia and the Unite
 
 **(a) Causes**
 
-The devastation caused by World War I was of such magnitude that it was referred
-
-**Learning Objectives** � To acquaint ourselves about the political
-
-after World War I which ultimately led to � To understand the course of the War, in ge
-
-the main events which were turning point � To know the effects of World War II � To understand the “holocaust”, and the ma � To acquire knowledge about the internatio
-
-**World War II**
-
-**Unit - 3**  
-
-to as The Great War, or The War to End All Wars. The belligerent nations, especially the Allies, had no desire for a second prolonged conflict, and this was the main driving force behind their actions after the end of World War I. The immediate and primary cause of World War II was the aggressive military offensive undertaken by a resurgent Germany and a fast developing Japan.
+The devastation caused by World War I was of such magnitude that it was referred to as The Great War, or The War to End All Wars. The belligerent nations, especially the Allies, had no desire for a second prolonged conflict, and this was the main driving force behind their actions after the end of World War I. The immediate and primary cause of World War II was the aggressive military offensive undertaken by a resurgent Germany and a fast developing Japan.
 
 **Germany and Treaty of Versailles, 1919**
 
 The Treaty of Versailles ending World War I was signed in June 1919. Among the many clauses of the Treaty, three in particular caused great resentment among the Germans. (i) Germany was forced to give up territories to the west, north and east of the German border; (ii) Germany had to disarm and was allowed to retain only a very restricted armed force; (iii) as reparations for the War, Germany was expected to pay for the military and civilian cost of the War to the Allied nations.
-
-and economic developments World War II neral; in particular, to learn
-
-s in the War
-
-ss killing of Jews in Nazi nal organisations established after the
-
-
-
-
   
 
 **Failure of League of Nations**
@@ -68,309 +46,7 @@ There were also acts of aggression by Italy and Japan. Italy invaded Ethiopia in
 
 In spite of all these manifestations of military activity by Germany, Italy and Japan, Britain and France continued to be non- interventionist. The mood in Britain was not in favour of starting another war. Prime Ministers Baldwin and Chamberlain did not feel justified in intervening in a region which was not officially in their sphere of interest. The United States was totally indifferent to the outside world, and was concerned with the revival of the economy after the Great Depression.
 
-
-
-
-  
-
-**W O**
-
-**R LD**
-
-**W A**
-
-**R II**
-
-**A XI**
-
-**S V**
-
-**S A**
-
-**LL IE**
-
-**D P**
-
-**O W**
-
-**ER S**
-
-E W
-
-N S
-
-**U N**
-
-**IT ED**
-
-**ST AT**
-
-**ES**
-
-**CA N**
-
-**A D**
-
-**A**
-
-**A R**
-
-**CT IC**
-
-**O CE**
-
-**A N**
-
-**N O**
-
-**RW AY**
-
-**N ET**
-
-**H ER**
-
-**LA N**
-
-**D S**
-
-**BE LG**
-
-**IU M**
-
-**H U**
-
-**N G**
-
-**A RY**
-
-**G ER**
-
-**M A**
-
-**N Y**
-
-**D EN**
-
-**M A**
-
-**R K**
-
-**PO LA**
-
-**N D**
-
-**M O**
-
-**SC O**
-
-**W EN**
-
-**G LA**
-
-**N D**
-
-**U S**
-
-**S R**
-
-**(S O**
-
-**V IE**
-
-**T R**
-
-**U SS**
-
-**IA )**  
-
-**N o**
-
-**t to**
-
-**S c**
-
-**a le**
-
-**U N**
-
-**IT ED**
-
-**ST AT**
-
-**ES**
-
-**BR A**
-
-**ZI L**
-
-**CH IN**
-
-**A JA**
-
-**PA N**
-
-**A U**
-
-**ST RA**
-
-**LI A**
-
-**SO U**
-
-**TH ER**
-
-**N O**
-
-**CE A**
-
-**N**
-
-**A N**
-
-**TA R**
-
-**CT IC**
-
-**O CE**
-
-**A N**
-
-**FR A**
-
-**N CE**
-
-**SA N**
-
-**F R**
-
-**A N**
-
-**CI SC**
-
-**O**
-
-**H A**
-
-**W A**
-
-**I IS**
-
-**LA N**
-
-**D**
-
-**IT A**
-
-**LY BU**
-
-**LG A**
-
-**R IA**
-
-**G R**
-
-**EE CE**
-
-**RO M**
-
-**A N**
-
-**IA**
-
-**SO U**
-
-**TH**
-
-**AT LA**
-
-**N TI**
-
-**C O**
-
-**CE A**
-
-**N**
-
-**N O**
-
-**R TH**
-
-**AT LA**
-
-**N TI**
-
-**C O**
-
-**CE A**
-
-**N**
-
-**SO U**
-
-**TH**
-
-**PA CI**
-
-**FI C**
-
-**O CE**
-
-**A N**
-
-**N O**
-
-**R TH**
-
-**PA CI**
-
-**FI C**
-
-**O CE**
-
-**A N**
-
-**A xi**
-
-**s Po**
-
-**w er**
-
-**C ou**
-
-**nt ri**
-
-**es A**
-
-**lli ed**
-
-**P ow**
-
-**er C**
-
-**ou nt**
-
-**ri es**
-
-**IN D**
-
-**IA N**
-
-**O CE**
-
-**A N**
-
-**N EW**
-
-**ZE A**
-
-**LA N**
-
-**D**
-
-
-
-
-  
+![WORLD WAR II AXIS VS ALLIED POWERS](1.png)  
 
 **Munich Pact**
 
@@ -378,7 +54,7 @@ A further factor was that the western powers and the Soviet Union distrusted eac
 
 Though Hitler gave an assurance in the Munich Pact that Germany would not attack any other country, this was broken immediately. In 1939 he invaded Czechoslovakia. Poland was attacked next, and this was the final act which resulted in the declaration of war by Britain and France against Germany. In Britain, Prime Minister Chamberlain resigned in 1940 and Winston Churchill, who had always warned about Hitler and his military ambitions, became Prime Minister.
 
-Munich Pact
+![Munich Pact](2.png)
 
 **(b) Course of World War II**
 
@@ -386,40 +62,35 @@ Munich Pact
 
 World War II was fought on two distinct fronts - Europe and the Asia Pacific. In Europe, the war was fought by the Allies against Germany and Italy. In the Asia Pacific, the Allies fought Japan.
 
-World War II was a modern war fought with heavy military equipment such as tanks,  
-
-submarines, battleships, aircraft carriers, fighter planes and bomber planes. This involved a very large resource base, since all this equipment needed to be manufactured. There had to be raw materials, manufacturing capacity and technical inputs to improve the military hardware. This was an expensive and prolonged war of attrition.
+World War II was a modern war fought with heavy military equipment such as tanks,submarines, battleships, aircraft carriers, fighter planes and bomber planes. This involved a very large resource base, since all this equipment needed to be manufactured. There had to be raw materials, manufacturing capacity and technical inputs to improve the military hardware. This was an expensive and prolonged war of attrition.
 
 **Outbreak of War**
 
 Britain and France declared war on Germany in September 1939. In June 1940, Italy joined Germany, and in September 1940, Japan also joined the Axis powers.
 
-There was little action immediately after the declaration of war. Britain had already begun to build up its military capabilities, and all young men were conscripted for military duty. The first years of the War were a time of spectacular successes of the Germany army which occupied Denmark and Norway and later France. By 1941, all of mainland Europe till the Russian frontier was under the Axis powers. The German army followed a tactic of ‘lightning strike’ (Blitzkrieg) to storm into various countries and overrun them.
+There was little action immediately after the declaration of war. Britain had already begun to build up its military capabilities, and all young men were conscripted for military duty. 
 
-The British Royal Navy continued to be the most powerful among the European naval forces and ensured that a sea-borne invasion of Britain was not possible. However, Britain depended on large scale imports of food, raw materials and industrial goods by sea from its Empire and the US. To attack this, Germany developed a fleet of submarines which caused havoc, especially in the Atlantic Ocean area, by sinking a large number of civilian ships carrying supplies to Britain.
+![Blitzkrieg](3.png)
+
+The first years of the War were a time of spectacular successes of the Germany army which occupied Denmark and Norway and later France. By 1941, all of mainland Europe till the Russian frontier was under the Axis powers. The German army followed a tactic of ‘lightning strike’ (Blitzkrieg) to storm into various countries and overrun them.
+
+The British Royal Navy continued to be the most powerful among the European naval forces and ensured that a sea-borne invasion of Britain was not possible. However, Britain depended on large scale imports of food, raw materials and industrial goods by sea from its Empire and the US.
+
+![British Royal Navy](4.png)
+
+To attack this, Germany developed a fleet of submarines which caused havoc, especially in the Atlantic Ocean area, by sinking a large number of civilian ships carrying supplies to Britain.
 
 **Important Events**
 
-**Dunkirk –** In May 1940 more than **300,000** British and French soldiers were
-
-Blitzkrieg
-
-British Royal Navy
-
-
-
-
-  
-
-forced back to the beaches in Dunkirk. Britain would have found it difficult to regroup if so many of her soldiers had been lost at Dunkirk.
+**Dunkirk –** In May 1940 more than **300,000** British and French soldiers were forced back to the beaches in Dunkirk. Britain would have found it difficult to regroup if so many of her soldiers had been lost at Dunkirk.
 
 **Battle of Britain**– By July 1940, it was feared that the Germans were planning to invade Britain. Hitler wanted to force Britain to accept his proposals for peace by a prolonged air-borne bombing campaign. The German air force began to attack specific targets, especially the ports, airfields and industrial installations. In September 1940, London was bombed mercilessly, an action known as The Blitz. By October 1940, night bombing raids on London and other industrial cities began.
 
 This campaign failed because with the aid of a newly developed and top secret device ‘radar’ for detecting aircraft while still at a distance, the fighter planes of the Royal Air Force (Spitfires and Hurricanes) were able to inflict severe losses on the German bombers. The raids stopped after October 1940. The Germans dropped their plans to invade Britain because of the failure of the air battle.
 
-Spitfires - Royal Air Force
+![Spitfires - Royal Air Force](5.png)
 
-Hurricanes - Royal Air Force
+![Hurricanes - Royal Air Force](6.png)
 
 **Lend Lease 1941–1945**
 
@@ -437,14 +108,7 @@ Russian people suffered not only from bad working and living conditions, but als
 
 **Battle of El Alamein 1942**
 
-In the early years of the War, German forces under General Rommel were remarkably
-
-
-
-
-  
-
-successful in occupying North Africa rapidly, leaving the British with only Egypt. The Allied forces under General Montgomery counter- attacked and defeated the German and Italian forces at El Alamein in North Africa. The German army was chased across the desert, out of North Africa. This provided the base for the Allied forces to invade Italy.
+In the early years of the War, German forces under General Rommel were remarkably successful in occupying North Africa rapidly, leaving the British with only Egypt. The Allied forces under General Montgomery counter- attacked and defeated the German and Italian forces at El Alamein in North Africa. The German army was chased across the desert, out of North Africa. This provided the base for the Allied forces to invade Italy.
 
 **Surrender of Italy 1943**
 
@@ -458,15 +122,13 @@ From 1944, the Russian army began to attack Germany from the East and captured m
 
 **War in the Asia-Pacific Region**
 
-Japan had entertained visions of a glorious empire, very much on the same lines as Hitler. The Japanese army invaded Manchuria in 1931.Though China appealed to the League of Nations, this act of aggression did not attract the attention of the United States or Britain. In 1937, Japan invaded China, and seized Beijing (Peking, as it was then known) which had traditionally been the capital of China. The region around Shanghai was also captured, and Nanjing (Nanking), the capital was captured at the end of the year. The Japanese army indulged in the biggest slaughter ever known in history in Nanjing. Civilians were killed en masse for sport, and all females – from children to old women – were tortured and killed. Guangzhou  
-
-(Canton) and many other parts of China were overrun. The Chinese army, under Chiang Kai- shek retreated to the west to the hilly country from where they continued to fight the Japanese.
+Japan had entertained visions of a glorious empire, very much on the same lines as Hitler. The Japanese army invaded Manchuria in 1931.Though China appealed to the League of Nations, this act of aggression did not attract the attention of the United States or Britain. In 1937, Japan invaded China, and seized Beijing (Peking, as it was then known) which had traditionally been the capital of China. The region around Shanghai was also captured, and Nanjing (Nanking), the capital was captured at the end of the year. The Japanese army indulged in the biggest slaughter ever known in history in Nanjing. Civilians were killed en masse for sport, and all females – from children to old women – were tortured and killed. Guangzhou  (Canton) and many other parts of China were overrun. The Chinese army, under Chiang Kai- shek retreated to the west to the hilly country from where they continued to fight the Japanese.
 
 **Pearl Harbour 1941**
 
 On December 1941, Japan attacked American naval installations in Pearl Harbour, Hawaii, without warning. The idea was to cripple America’s Pacific fleet so that Japan would not face any opposition in its offensive against South-east Asian countries. Many battleships and numerous fighter planes were destroyed. The United States declared war on Japan, with Britain and China also joining in. This brought together both the Asia Pacific and the European war into one common cause. Most importantly, it brought the United States with its enormous resources into the war as a part of the Allies.
 
-Pearl Harbour attack
+![Pearl Harbour attack](7.png)
 
 **Japanese Aggression in South-east Asia**
 
@@ -476,10 +138,7 @@ The Japanese had spectacular success in their plan to extend their empire throug
 
 The US navy defeated the Japanese navy in the Battle of Midway, which turned the tide in favour of the Allies. The Battle of Guadalcanal in Battle of Guadalcanal
 
-
-
-
-  
+![Battle of Guadalcanal](8.png)  
 
 the Solomon Islands was a combined offensive involving the army and the navy, and lasted for several months. Both were crushing defeats for the Japanese.
 
@@ -489,37 +148,11 @@ After this, the American forces were able to re-take the Philippines. Gradually 
 
 As a top secret project, using the latest scientific advances, the US developed an atomic bomb immensely more powerful than conventional explosives. The Japanese generals refused to surrender and finally the US dropped an atomic bomb on Hiroshima. As the Japanese still refused to surrender, another atom bomb was dropped on Nagasaki. Japan ultimately announced surrender on 15 August 1945 and formally signed 2 September 1945 bringing an end to World War II.
 
-EW N
-
-S
-
-**Not to Scale**
-
-**ATOM BOMB BLAST AT JAPAN 1945**
-
-**TOKYO**
-
-**JAPAN PACIFIC OCEAN**
-
-**HIROSHIMA**
-
-**CHINA**
-
-**NORTH KOREA**
-
-**SOUTH KOREA**
-
-**RU SS**
-
-**IA**
-
-**NAGASAKI**
+![](9.png)
 
 **(c) Effects of the War**
 
-**New geo-political power alignment:** World War II changed the world in fundamental ways. The world was polarized into two main blocs led  
-
-by superpowers, one led by the United States with a pronounced anti-Communist ideology, and the other by Soviet Russia. Europe was divided into two: Communist and non-Communist.
+**New geo-political power alignment:** World War II changed the world in fundamental ways. The world was polarized into two main blocs led by superpowers, one led by the United States with a pronounced anti-Communist ideology, and the other by Soviet Russia. Europe was divided into two: Communist and non-Communist.
 
 **Nuclear proliferation: The United States** and the Soviet Union entered into a race to have more nuclear powered weapons. They built a large stockpile of such weapons. Defence spending sky-rocketed in many countries.
 
@@ -527,16 +160,12 @@ by superpowers, one led by the United States with a pronounced anti-Communist id
 
 Colonial powers were forced to give independence to former colonies in a process of decolonization. India was the first to achieve independence.
 
-**3.2 Holocaust and Its Fallout**
+## 3.2 Holocaust and Its Fallout
 
 After Hitler came to power, the Jews were persecuted in many ways. They were deprived of their civil rights, their properties were confiscated and many were confined to ghettos. Eventually, the Nazis came up with the notion of the Final Solution, which was to exterminate the Jews completely.
 
-The word ‘holocaust’ is used to describe the genocide of nearly six million Jews by the Germans during World War II. Annihilating the Jews was one of the main items on the political agenda of Hitler and the Nazis. Hitler was able to play on the anti-Jewish feelings (anti-Semitism) which were common in Germany and, in fact, throughout Europe. Jews were scattered all across Europe and many had become prominent in business, in performing arts and professional fields. Money-lending was a major business activity among Jews and this strengthened the prejudice against them. Shakespeare’s play, _The Merchant of Venice clearly depicts the_ dislike and distrust of Jews among the people.
+>The word ‘holocaust’ is used to describe the genocide of nearly six million Jews by the Germans during World War II. Annihilating the Jews was one of the main items on the political agenda of Hitler and the Nazis. Hitler was able to play on the anti-Jewish feelings (anti-Semitism) which were common in Germany and, in fact, throughout Europe. Jews were scattered all across Europe and many had become prominent in business, in performing arts and professional fields. Money-lending was a major business activity among Jews and this strengthened the prejudice against them. Shakespeare’s play, _The Merchant of Venice clearly depicts the_ dislike and distrust of Jews among the people.
 
-
-
-
-  
 
 **Universal Declaration of Human Rights**
 
@@ -546,30 +175,27 @@ In the aftermath of the Holocaust the UNO in its Charter, pledged to promote uni
 
 A major outcome of the Holocaust was the creation of the state of Israel as a homeland for the Jews. While this was historically the original home of the Jews during Roman times.
 
-**3.3 New International Order**
+## 3.3 New International Order
 
-By 1941 the United States and Britain began to give serious consideration to the need for international cooperation for achieving lasting peace among all nations. International economic and financial stability were also important objectives. All these would need international organizations with members of the various nations across the world working together for these common objectives. This ultimately resulted in the establishment of the United Nations, the World Bank and the International Monetary Fund, with many  
-
-associated organizations which deal with basic issues of importance for all societies and countries.
+By 1941 the United States and Britain began to give serious consideration to the need for international cooperation for achieving lasting peace among all nations. International economic and financial stability were also important objectives. All these would need international organizations with members of the various nations across the world working together for these common objectives. This ultimately resulted in the establishment of the United Nations, the World Bank and the International Monetary Fund, with many associated organizations which deal with basic issues of importance for all societies and countries.
 
 **United Nations**
 
-The first initiative for the United Nations came from the United States and Britain in 1941 when they issued a joint declaration known as the Atlantic Charter. This Declaration of the United Nations was accepted by all the 26 countries which were fighting against the Axis powers (Germany, Italy and Japan) on New Year’s Day, 1942.The Charter of the United Nations was signed on June 26, 1945 by 51 nations. India which was not an independent country then also was a signatory to the Charter. Now the United Nations has 193 member states and each one - big or small - has an equal vote in the United Nations.
+The first initiative for the United Nations came from the United States and Britain in 1941 when they issued a joint declaration known as the Atlantic Charter. 
 
-"We, the peoples of the United Nations, determined to save succeeding generations from scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women, and of nations large and small …”. - from The Preamble to the United Nations
+![Symbol of UN](10.png)
+
+This Declaration of the United Nations was accepted by all the 26 countries which were fighting against the Axis powers (Germany, Italy and Japan) on New Year’s Day, 1942.The Charter of the United Nations was signed on June 26, 1945 by 51 nations. India which was not an independent country then also was a signatory to the Charter. Now the United Nations has 193 member states and each one - big or small - has an equal vote in the United Nations.
+
+>"We, the peoples of the United Nations, determined to save succeeding generations from scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women, and of nations large and small …”. - from The Preamble to the United Nations
 
 **General Assembly and Security Council**
 
 The United Nations functions almost like any government, through its principal organs which are similar to the legislative, executive and judicial wings of a state. In the General Assembly is the body in which each member state is represented. It meets once a year and issues of interest and points of conflict are discussed in the Assembly. The Security Council has
 
-Symbol of UN
 
-UN Headquarters, New York
+![UN Headquarters, New York](11.png)
 
-
-
-
-  
 
 fifteen members. Five countries - the United States, Britain, France, Russia and China - are permanent members, and there are ten temporary members who are elected in rotation. These two bodies function like a legislature. Each of the permanent members has the right to veto any decision by the other members of the Security Council. This right has often been used to block major decisions, especially by the superpowers, the US and Russia. Major issues and conflicts are discussed in the Security Council.
 
@@ -579,9 +205,7 @@ The executive wing of the United Nations is the UN Secretariat. It is headed by 
 
 **Other Important Organs of the UN**
 
-Associated organizations deal with areas of critical interest to the world at large like food, health and education, and culture. These are: Food and Agriculture Organisation (FAO), World Health Organisation (WHO), UNESCO (UN Educational, Scientific and Cultural Organisation). There are also special organizations funded voluntarily by member countries. The two best known among them are UNICEF (United Nations Children’s Fund) which promotes child health and welfare across the world, and the UNDP (United Nations  
-
-Development Programme), which focuses on development.
+Associated organizations deal with areas of critical interest to the world at large like food, health and education, and culture. These are: Food and Agriculture Organisation (FAO), World Health Organisation (WHO), UNESCO (UN Educational, Scientific and Cultural Organisation). There are also special organizations funded voluntarily by member countries. The two best known among them are UNICEF (United Nations Children’s Fund) which promotes child health and welfare across the world, and the UNDP (United Nations  Development Programme), which focuses on development.
 
 **Activities of the UN**
 
@@ -591,16 +215,9 @@ Over the decades, the United Nations has expanded its activities in response to 
 
 The World Bank and the International Monetary Fund, referred to as the “Bretton Woods Twins”, were both established in 1945 after the Bretton Woods Conference in 1944. Located in Washington D.C. in the United States, they have the same membership, since a country cannot be a member of the Bank without being a member of the Fund.
 
-Bretton Woods Conference
+![Bretton Woods Conference](12.png)
 
-The two main organs of the World Bank are the International Bank for Reconstruction and Development (IBRD) and the International Development Agency (IDA), Together they are often referred to as the World Bank. The main responsibility of the IBRD in the initial years was to fund the reconstruction activities under the Marshall Plan in the European countries devastated by the war. The agenda later expanded to promote economic development in poorer
-
-
-
-
-  
-
-countries and the Bank lends money to various countries for developmental projects. A further area of interest is poverty alleviation, especially in the rural areas of developing countries. The International Development Agency (IDA) also lends money to governments for developmental activities. These loans are “soft” loans, and are given at very low rates of interest for a period of 50 years. The International Finance Corporation (IFC) mainly functions with private enterprises in developing countries.
+The two main organs of the World Bank are the International Bank for Reconstruction and Development (IBRD) and the International Development Agency (IDA), Together they are often referred to as the World Bank. The main responsibility of the IBRD in the initial years was to fund the reconstruction activities under the Marshall Plan in the European countries devastated by the war. The agenda later expanded to promote economic development in poorer countries and the Bank lends money to various countries for developmental projects. A further area of interest is poverty alleviation, especially in the rural areas of developing countries. The International Development Agency (IDA) also lends money to governments for developmental activities. These loans are “soft” loans, and are given at very low rates of interest for a period of 50 years. The International Finance Corporation (IFC) mainly functions with private enterprises in developing countries.
 
 In recent years the Bank is actively promoting the achievement of the Millennium Development Goals which aim at improving living standards, removing illiteracy, empowering women and improving maternal and child health, improving the environment and eradicating AIDS.
 
@@ -608,9 +225,9 @@ In recent years the Bank is actively promoting the achievement of the Millennium
 
 The International Monetary Fund was primarily the brainchild of Harry Dexter White and John Maynard Keynes, the famous economist. It was formally organized in 1945 with 29 member countries. It now has a membership of 189 countries. Its primary objective is to ensure financial stability and development across the world. The main agenda is to promote international monetary cooperation, expansion of international trade and exchange stability. The Fund lends money from its resources to countries facing balance of payments problems (because they are unable to pay for their imports). It however imposes stringent conditions on the borrowing nations to tighten their budgets, practice fiscal prudence and reduce their expenditure. This is often unpopular, especially among the developing countries which may have to cut down on various programmes which provide subsidies to the people.  
 
-The objectives of the IMF are: “to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth and reduce poverty around the world.”
+>The objectives of the IMF are: “to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth and reduce poverty around the world.”
 
-**3.4 Post-War Welfare States in Europe**
+## 3.4 Post-War Welfare States in Europe
 
 The term Welfare State refers to the concept that the government is responsible for the social and economic welfare of the people, thus expanding the role of the state beyond providing defence and maintaining law and order.
 
@@ -619,240 +236,3 @@ In 1942, the Report commonly known as the Beveridge Report was published in the 
 After the War, the Labour party was voted into power in Britain. It promised to undertake steps to look after the people “from the cradle to the grave”. Legislation was enacted to provide comprehensive free health coverage to the citizens through the National Health Service and monetary benefits like old page pensions and unemployment benefits, childcare services and family welfare services. These are in addition to universal, free school education to all children.
 
 The benefits can either be achieved through cash transfers, like old age pensions and unemployment compensation, or through free services. In addition, these countries also try to minimize economic disparities through progressive taxation by taxing the higher income groups at relatively high rates.
-
-
-
-
-  
-
-**I Choose the correct answer**
-
-1\. When did the Japanese formally sign of their surrender?
-
-a) 2 September, 1945
-
-b) 2 October, 1945
-
-c) 15 August, 1945
-
-d) 12 October, 1945
-
-**EXERCISE**
-
-**GLOSSARY**
-
-**devastation/ havoc** total destruction **belligerent** one eager to fight / aggr **resurgent** rising again **reparations** compensation exacted f
-
-nation by the victors **armaments** weapons **conscripted** compulsory military se
-
-**slaughter** kill a large number of p indiscriminately
-
-**proliferation** a rapid increase **ghettos** slums **veto** a vote that blocks a dec
-
-vote **ambit** range **scourge** eternal suffering **stringent** tough
-
-**SUMMARY**
-
-� The War lasted from 1939 till 1945 and was fou Africa and the Asia Pacific. The Allies, initially (Russia) and the United States, fought against th
-
-� Initially both the German army in Europe and Ja the United States with its enormous resources al defeated after many prolonged fighting.
-
-� The post-War world saw the rise of two superpo countries were in an arms race, especially to buil  
-
-2\. Who initiated the formation of League of Nations?
-
-a) Roosevelt
-
-b) Chamberlain
-
-c) Woodrow Wilson
-
-d) Baldwin
-
-3\. Where was the Japanese Navy defeated by the US Navy?
-
-a) Battle of Guadalcanal
-
-b) Battle of Midway
-
-**_பேரழிவு_** essive **_பேோர் நோட்டம்_**
-
-**_மீண்்டழுகிற_** rom a defeated இழப்பீடுகள்
-
-**_பேோர்்த்தளவோ்டஙகள்_** rvice **_கட்டோய இரோணுவ_**
-
-**_பேவவக்கு அவழக்கப்ேட்ட_** eople வவ்த்ததுக் ்கோல்லு்தல்
-
-**_ேல்கிப் ்ேருகு்தல் குடிவே்த்்தோகுதி_**
-
-ision / negative மறுப்ேோவை / எதிர்வோக்கு
-
-**_வரம்பு / எல்வலை மீளோ்ததுயரம் கடுவமயோன_**
-
-ght in almost every part of the world, in Europe, Britain and France, and subsequently the USSR
-
-e Axis powers - Germany, Italy and Japan. pan in the East were very successful. However, after so joined the Allies, both Germany and Japan were
-
-wers, namely the United States and the USSR. Both d their nuclear weapons.
-
-
-
-
-
-
-| devastation/ havoc |total destruction |பேர¶ |
-|------|------|------|
-| belligerent |one eager to ght / aggressive |பேோß நோடCÝ |
-| resurgent |rising again |ண்Cµxற |
-| reparations |compensation exacted from a defeated nation by the victors |இழÜ©கã |
-| armaments |weapons |பேோßÚEளவோCஙகã |
-| conscripted |compulsor y militar y ser vice |கடCோய இரோªவ பேவ வÔ¤ அவழÔகÜே டC |
-| slaughter |kill a large number of people indiscriminately |வவEÚ «Ô ்கோà³Eà |
-| proliferation |a  rapid increase |ேàxÜ ்ே±¤Eà |
-| ghettos |slums |¤}வேÚ ்Eோ¤ |
-| veto |a vote that blocks a decision / negative vote |ம²Üேோவ ை / எßவோÔ¤ |
-| a mbit |range |வரÝ® / எàவ M |
-| scourge |eternal suering |ளோÚ«யரÝ |
-| stringent |tough |க©வம யோன |
-  
-
-c) Battle of Leningrad
-
-d) Battle of El Alamein
-
-4\. Where did the US drop its first atomic bomb?
-
-a) Kavashaki
-
-b) Innoshima
-
-c) Hiroshima
-
-d) Nagasaki
-
-5\. Who were mainly persecuted by Hitler?
-
-a) Russians
-
-b) Arabs
-
-c) Turks
-
-d) Jews
-
-6\. Which Prime Minister of England who signed the Munich Pact with Germany ?
-
-a) Chamberlain
-
-b) Winston Churchill
-
-c) Lloyd George
-
-d) Stanley Baldwin
-
-7\. When was the Charter of the UN signed?
-
-a) June 26, 1942
-
-b) June 26, 1945
-
-c) January 1, 1942
-
-d) January 1, 1945
-
-**II Fill in the blanks**
-
-1\. Hitler attacked which was a demilitarised zone.
-
-2\. The alliance between Italy, Germany and Japan is known as .
-
-3\. started the Lend Lease programme.
-
-4\. Britain Prime Minister resigned in 1940.
-
-5\. is a device used to find out the enemy aircraft from a distance.  
-
-**III Choose the correct statement**
-
-1\. **Assertion**: President Roosevelt realised that the United States had to change its policy of isolation.
-
-**Reason**: He started a programme of Lend Lease in 1941. a) Both A and R are correct b) A is right but R is not the correct reason c) Both A and R are wrong d) R is right but it has no relevance to A
-
-**IV Match the Following**
-
-1\. Blitzkrieg - Roosevelt 2. Royal Navy - Stalingrad 3. Lend Lease - Solomon Island 4. Volga - Britain 5. Guadalcanal - lightning strike **V Answer the questions briefly**
-
-1\. Who were the three prominent dictators of the post World War I ?
-
-2\. How did Hitler get the support from the people of Germany?
-
-3\. Describe the Pearl Harbour incident.
-
-4\. What do you know of Beveridge Report?.
-
-5\. Name the Bretton Woods Twins.
-
-6\. What are the objectives of IMF?
-
-**VI Answer in detail**
-
-1\. Analyse the effects of the World War II.
-
-2\. Assess the structure and the activities of the UN.
-
-**VII Students Activity**
-
-1\. Marking the Allies and Axis countries, as well as important battlefields of World War II in a world map.
-
-**VIII Map Work**
-
-**Mark the following on the world map.**
-
-1\. Axis Power Countries
-
-2\. Allied Power Countries
-
-3\. Hiroshima, Nagasaki, Hawai Island, Moscow, San Fransico
-
-
-
-
-  
-
-**Steps** • Open the Browser and type the URL give • Click on ‘**map**’ to see the events happened • Select any year from the bottom time line
-
-about the World War II events.
-
-**Website URL:** https://www.abmc.gov/sites/default/files/interactive/i index.html
-
-**ICT CORNER World W**
-
-**REFERENCE BOOKS**
-
-1. R.D. Cornwell, _World History in the Twentiet_
-
-2\. C.V. Narasimhan, The United Nations - An In
-
-3. _Encyclopaedia Britannica_, vol. 23 (1962 editio
-
-4. Chris Harman, _A People’s History of the World_  
-
-n below (or) Scan the QR Code. in the location
-
-**(Ex.1939)** and select the ‘**box**’ to learn more
-
-nteractive\_files/WW2/
-
-**ar II**
-
-_h Century,_ London: Longman, 1972.
-
-_side View_, New Delhi: Vikas, 1988.
-
-n).
-
-(Delhi: Orient Longman, 2007)
-
-
-
-
