@@ -3,31 +3,12 @@ title: 'Outbreak of  World War I and  Its Aftermath'
 weight: 1
 ---
 
-  
 
-**To acquaint ourselves with** „„ The race for colonies leading to rivalry and „„ Emergence of Japan as the strongest and m „„ Colonialism's impact on Africa „„ Causes, course and results of the First Wor „„ Treaty of Versailles and its provisions „„ Causes, course and outcome of the Russian „„ Foundation, functioning and failure of the
 
-**Introduction** 1914 is a turning point in world history. The
+# Introduction 
+1914 is a turning point in world history. The political and social processes that began in 1789 culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteenth century’. This was the first industrial war that drew on the economic resources of the entire world, and also affected large sections of the civilian population. The political map of the world was redrawn. Three major empires lay shattered by the end of the War: Germany, Austria–Hungary, and the Ottomans. The biggest outcome of the War was the Russian Revolution. It was a unique event as well as the first revolution of its kind in world history. For the first time, countries tried to bring about world peace through the League of Nations. In this lesson, we discuss the circumstances leading to the outbreak of the First World War and its repercussions, including the Russian Revolution and the formation of an international peace organisation, namely the League of Nations.
 
-political and social processes that began in 1789 culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteenth century’. This was the first industrial war that drew on the economic resources of the entire world, and also affected large sections of the civilian population. The political map of the world was redrawn. Three major empires lay shattered by the end of the War: Germany, Austria–Hungary, and the Ottomans. The biggest outcome of the War was the Russian Revolution. It was a unique event as well as the first revolution of its kind in world history. For the first time, countries tried to bring about world peace through the League of Nations. In this lesson, we discuss the circumstances leading to the outbreak of the First World War and its repercussions, including the Russian Revolution and the formation of an
-
-**Learning Objectives**
-
-**Outbreak of World War I and**
-
-**Its Aftermath**
-
-**Unit - 1**  
-
-clashes among the great powers of Europe ost aggressive power in East Asia
-
-ld War
-
-Revolution League of Nations
-
-international peace organisation, namely the League of Nations.
-
-**1.1 Scramble for Colonies Capitalist Countries’ Race for Markets**
+## 1.1 Scramble for Colonies Capitalist Countries’ Race for Markets
 
 The aim of capitalistic industry was to produce more and more. The surplus wealth thus produced was used to build more factories, railways, steamships and other such undertakings. Revolution in the means of communication and transportation in the latter half of the nineteenth century facilitated the process of European expansion in Africa and other places.
 
@@ -38,17 +19,16 @@ A striking feature of nineteenth century was that Europe emerged as the dominant
 
   
 
-**Rise of Monopoly Capitalism** After 1870, the alliance of industry and
+**Rise of Monopoly Capitalism** 
+After 1870, the alliance of industry and finance seeking profits in markets for goods and capital, which was an essential characteristic of imperialism, became evident in the latter half of the nineteenth century. The old ideas of free trade collapsed. There were trusts in the USA and cartels in Germany.
 
-finance seeking profits in markets for goods and capital, which was an essential characteristic of imperialism, became evident in the latter half of the nineteenth century. The old ideas of free trade collapsed. There were trusts in the USA and cartels in Germany.
-
-A trust is an industrial organisation engaged in the production or distribution of any commodity. The trust would possess adequate control over the supply and price of that commodity to its own advantage.
+>A trust is an industrial organisation engaged in the production or distribution of any commodity. The trust would possess adequate control over the supply and price of that commodity to its own advantage.
 
 **Imperialism and its Essential Characteristics**
 
 Capitalism inevitably led to imperialism. According to Lenin, imperialism is the highest stage of capitalism. Besides being a market for surplus goods, colonies served another purpose. Imperialism was not just about colonies. It became a total system, the logic of which was total militarisation and total war.
 
-**1.2 Rivalry of Great Powers**
+## 1.2 Rivalry of Great Powers
 
 **Europe**
 
@@ -73,238 +53,7 @@ After 1905 Japan took control of Korean domestic and foreign policy. The assassi
 In 1876 barely 10 percent of Africa was under European rule. By 1900 practically the
 
 
-
-
-  
-
-E W
-
-N S
-
-**TH E**
-
-**W O**
-
-**RL D**
-
-**W A**
-
-**R I**
-
-**RU SS**
-
-**IA (S**
-
-**O V**
-
-**IE T**
-
-**RU SS**
-
-**IA )**
-
-**A U**
-
-**ST RI**
-
-**A -**
-
-**H U**
-
-**N G**
-
-**A RY**
-
-**BR IT**
-
-**A IN**
-
-**(E N**
-
-**G LA**
-
-**N D**
-
-**) CA**
-
-**N A**
-
-**D A**
-
-**G ER**
-
-**M A**
-
-**N Y**
-
-**FR A**
-
-**N CE**
-
-**BO SN**
-
-**IA**
-
-**BE LG**
-
-**IU M**
-
-**SE RB**
-
-**IA**  
-
-**N o**
-
-**t to**
-
-**S c**
-
-**a le**
-
-**JA PA**
-
-**N**
-
-**A FR**
-
-**IC A**
-
-**IT A**
-
-**LY TU**
-
-**RK EY**
-
-**G RE**
-
-**EC E**
-
-**M O**
-
-**RO CC**
-
-**O**
-
-**IN D**
-
-**IA**
-
-**A U**
-
-**ST RA**
-
-**LI A**
-
-**N EW**
-
-**Z EA**
-
-**LA N**
-
-**D**
-
-**TR IP**
-
-**LE E**
-
-**N TE**
-
-**N TE**
-
-**LE G**
-
-**EN D**
-
-**TR IP**
-
-**LE A**
-
-**LL IA**
-
-**N CE**
-
-**BR IT**
-
-**IS H**
-
-**E M**
-
-**PI RE**
-
-**FR EN**
-
-**CH E**
-
-**M PI**
-
-**RE**
-
-**RU SS**
-
-**IA N**
-
-**E M**
-
-**PI RE**
-
-**G ER**
-
-**M A**
-
-**N E**
-
-**M PI**
-
-**RE**
-
-**IT A**
-
-**LI A**
-
-**N E**
-
-**M PI**
-
-**RE**
-
-**O TH**
-
-**ER S**
-
-**A U**
-
-**ST RI**
-
-**A -**
-
-**H U**
-
-**N G**
-
-**A RI**
-
-**A N**
-
-**E M**
-
-**PI RE**
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-| EN S ALANDWNEW ZENPAJASTRALIAAURUSSIA VIET RUSSIA)(SOINDIAYTURKEYBOSNIA SERBIA CEGREESTRIA - HUNGARAFRICAAU GIUMBELOYALAIN (ENGLAND) ITFRANCE MOROCCBRIT GERMANYNot to ScaleAAR I   CANAD-GENDORLD W LE ALIAN EMPIRE STRIA  HERSBRITISH EMPIRE FRENCH EMPIRE RUSSIAN EMPIRE GERMAN EMPIRE IT AU HUNGARIAN EMPIRE OTTHE W TRIPLE ENTENTE TRIPLE ALLIANCE |
-|------|------|------|
-
-
+![THE WORLD WAR I](1.png)
 
   
 
@@ -314,7 +63,8 @@ The first European attempts to carve out colonies in Africa resulted in bloody b
 
 **1.3 Causes, Course and Results of World War I**
 
-**(a) Causes European Alliances and Counter-Alliances**
+**(a) Causes** 
+***European Alliances and Counter-Alliances**
 
 In 1900 five of the European Great Powers were divided into two armed camps. One camp consisted of the Central Powers-Germany, Austria-Hungary and Italy. Under the guidance of Bismarck, they had formed the Triple Alliance in 1882. The understanding was that Germany and Austria would help each other. The other camp consisted of France and Russia. Their alliance was formed in 1894 with the promise of mutual help if Germany attacked either of them. An isolated Britain wanted to break her isolation and approached Germany twice but in vain. As Japan was increasingly hostile towards Russia, as France was the ally of Russia, it preferred to ally with Britain (1902). The Anglo-Japanese Alliance prompted France to seek an alliance with Britain to resolve colonial disputes over Morocco and Egypt. This resulted in the Entente Cordiale (1904). In return for letting the French have a free hand in Morocco, France agreed to recognize the British occupation of Egypt. Britain subsequently reached an agreement with Russia over Persia, Afghanistan and Tibet.  
 
@@ -326,7 +76,12 @@ With the growth of nationalism, the attitude of “my country right or wrong I s
 
 **Aggressive Attitude of German Emperor**
 
-Emperor Kaiser Wilhelm II of Germany proclaimed that Germany would be the leader of the world. The German navy was expanded. The sea being considered a preserve of England ever since Napoleon’s defeat at Trafalgar (1805), Germany’s aggressive diplomacy and rapid building of naval bases convinced Britain that a German navy could be directed only against her. Therefore, Britain embarked on a naval race, which heightened the tension between the two powers.
+
+Emperor Kaiser Wilhelm II of Germany proclaimed that Germany would be the leader of the world. The German navy was expanded. The sea being considered a preserve of England ever since Napoleon’s defeat at Trafalgar (1805),
+
+![Kaiser Wilhelm II](2.png)
+
+ Germany’s aggressive diplomacy and rapid building of naval bases convinced Britain that a German navy could be directed only against her. Therefore, Britain embarked on a naval race, which heightened the tension between the two powers.
 
 **Hostility of France towards Germany**
 
@@ -334,34 +89,15 @@ France and Germany were old rivals. Bitter memories of the defeat of 1871 and lo
 
 **Imperial Power Politics in the Balkans**
 
-The Young Turk Revolution of 1908, an attempt at creating a strong and modern government in Turkey, provided both Austria
-
-Kaiser Wilhelm II
-
-
-
-
-  
-
-and Russia with the opportunity to resume their activities in the Balkans. Austria and Russia met and agreed that Austria should annexe Bosnia and Herzegovina, while Russia should have freedom to move her warships, through the Dardanelles and the Bosporus, to the Mediterranean. Soon after this, Austria announced the annexation of Bosnia and Herzegovina. Austria’s action aroused intense opposition from Serbia. Germany gave Austria firm support. Germany went to the extent of promising that if Austria invaded Serbia and in consequence Russia helped Serbia, Germany would come to Austria’s assistance. The enmity between Austria and Serbia led to the outbreak of war in 1914.
+The Young Turk Revolution of 1908, an attempt at creating a strong and modern government in Turkey, provided both Austria and Russia with the opportunity to resume their activities in the Balkans. Austria and Russia met and agreed that Austria should annexe Bosnia and Herzegovina, while Russia should have freedom to move her warships, through the Dardanelles and the Bosporus, to the Mediterranean. Soon after this, Austria announced the annexation of Bosnia and Herzegovina. Austria’s action aroused intense opposition from Serbia. Germany gave Austria firm support. Germany went to the extent of promising that if Austria invaded Serbia and in consequence Russia helped Serbia, Germany would come to Austria’s assistance. The enmity between Austria and Serbia led to the outbreak of war in 1914.
 
 **The Balkan Wars**
 
 Turkey was a powerful country in the south west of Europe in the first half of eighteenth century. The Ottoman empire extended over the Balkans and across Hungary to Poland. The Empire contained many non-Turkish people in the Balkans. Both the Turks and their subjects of different nationalities in the Balkans indulged in the most frightful massacres and atrocities. The Armenian genocide is a frightful example.
 
- 
+![](3.png)
 
-****
-
-****
-
-**Black Sea**
-
-**Mediterranean Sea ** 
-
-Taking advantage of the political and economic instability of the Turkish Empire from the second half of the eighteenth century, Greeks followed by others began to secede, one after another, from Turkish control. Macedonia had a mixed population. There were rivalries among Greece, Serbia, Bulgaria and later Montenegro for the control of it. In March 1912 they formed the Balkan League. The League  
-
-attacked and defeated Turkish forces in the first Balkan War (1912–13). According to the Treaty of London signed in May 1913 the new state of Albania was created and the other Balkan states divided up Macedonia between them. Turkey was reduced to the area around Constantinople.
+Taking advantage of the political and economic instability of the Turkish Empire from the second half of the eighteenth century, Greeks followed by others began to secede, one after another, from Turkish control. Macedonia had a mixed population. There were rivalries among Greece, Serbia, Bulgaria and later Montenegro for the control of it. In March 1912 they formed the Balkan League. The League   attacked and defeated Turkish forces in the first Balkan War (1912–13). According to the Treaty of London signed in May 1913 the new state of Albania was created and the other Balkan states divided up Macedonia between them. Turkey was reduced to the area around Constantinople.
 
 The division of Macedonia, however, did not satisfy Bulgaria. Bulgaria attacked Serbia and Greece. But Bulgaria was easily defeated. The Second Balkan War ended with the signing of the Treaty of Bucharest in August 1913.
 
@@ -378,10 +114,6 @@ The climax to these events in the Balkans occurred in Sarajevo in Bosnia. On 28 
 The warring nations were divided into two. The Central powers consisted of Germany, Austria–Hungary, Turkey and Bulgaria. Italy which was earlier with Germany and Austria had left, as her attempt to recover Trentino in north east Italy, where Italians lived in majority but remained as part and parcel of Austria- Hungary, was not supported by Germany. Italy remained a neutral country when the War broke out. But it decided to enter the War hoping to gain the territory in the north - east. Britain, France and Italy signed the secret Treaty of London in April 1915, by which Italy agreed to enter the War against the Central Powers in return for this territory after the War.
 
 
-
-
-  
-
 **Allies**
 
 Nine states that opposed the Central powers were: Russia, France, Britain, Italy, the United States, Belgium, Serbia, Romania and Greece. Romania and Greece declared war on the Central Powers in 1916 and 1917 respectively but played little part in the war. Most Americans wanted their country to remain neutral and so in the first three years the United States gave only moral support and valuable material aid to Britain and France.
@@ -396,13 +128,10 @@ Germany steamrolled and smashed the resistance of the people of Belgium. On the 
 
 **Battles of Tannenberg and Marne**
 
-Meanwhile Russian forces invaded East Prussia. Germany defeated them decisively. At the Battle of the Marne (early September 1914), the French succeeded in pushing back
+Meanwhile Russian forces invaded East Prussia. Germany defeated them decisively. At the Battle of the Marne (early September 1914), the French succeeded in pushing back the Germans. Paris was thus saved. The battle of Marne is a memorable for **trench warfare.**
 
-**Trench Warfare:** Trenches or ditches dug by troops enabled soldiers to safely stand and protect themselves from enemy fire. The main lines of trenches were connected to each other and to the rear by a series of linking trenches through which food, ammunition, fresh troops, mail, and orders were delivered.  
+![Battle of Tannenberg](4.png)
 
-the Germans. Paris was thus saved. The battle of Marne is a memorable for **trench warfare.**
-
-Battle of Tannenberg
 
 **Battle of Verdun**
 
@@ -417,10 +146,6 @@ In the eastern front, Russian troops repeatedly defeated the Austrians. But the 
 **In the Middle East**
 
 Turkey also fought on the side of the central powers.Though Turkey met with initial success and the Allies suffered reverses, particularly in Mesopotamia and Gallipoli, ultimately Turkey was defeated.The Turks tried to attack Suez Canal, but were repulsed. Britain attacked Turkey in Iraq, and later in Palestine and Syria.
-
-
-
-
   
 
 **In the Far East**
@@ -449,50 +174,47 @@ The epicentre of the struggle was the western front and the seas. As the Allies 
 
 In 1916 a naval battle **(Battle of Jutland)** had taken place in the North Sea. The British won the battle. Thereafter Germany started their submarine warfare and their cruisers went roaming about, interfering with the shipping of the Allies. One of these was the famous Emden, which bombarded Madras. As a counter measure to the blockade the Germans proclaimed in January 1917 that they would sink even neutral ships in certain waters. _Lusitania_, an American ship, was torpedoed by a German submarine. There was a lot of resentment in the USA and President Wilson declared war against Germany in April 1917. America’s entry with its enormous resources made Allied victory a foregone conclusion.
 
-Sinking of Lusitania
+![Sinking of Lusitania](5.png)
 
 **(c) The Armistice and Treaty of Versailles**
 
 Germany ultimately surrendered in November 1918. The armistice took effect from 11 November 1918. Germany was forced to accept harsh terms by the political situation at home with the abdication of the Kaiser William II.
 
-**Peace Conference in Paris** The Peace Conference
+**Peace Conference in Paris**]
 
-opened in Paris in January 1919, two months after the signing of the armistice. Woodrow Wilson (USA), Lloyd George (Prime Minister of England) and Clemenceau (Prime Minister
+The Peace Conference opened in Paris in January 1919, two months after the signing of the armistice. Woodrow Wilson (USA), Lloyd George (Prime Minister of England) and Clemenceau (Prime Minister
 
-A News paper Report
-
-
-
-
-  
+![A News paper Report](6.png)
 
 of France) played a very important part in the deliberations.
 
-**Paris Peace Conference**
+![**Peace Conference in Paris**](7.png)
 
-Faced with a threat of a renewed war, the German government was forced to agree to the terms. On 28 June, 1919 the peace treaty was signed in the Hall of Mirrors at Versailles. **Provisions of the Treaty** 1\. Germany was found guilty of starting the
+Faced with a threat of a renewed war, the German government was forced to agree to the terms. On 28 June, 1919 the peace treaty was signed in the Hall of Mirrors at Versailles. 
 
-War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.
 
-2\. The German army was to be limited to 100,000 men. A small navy was allowed.
+**Provisions of the Treaty** 
+1. Germany was found guilty of starting the War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.
 
-3\. The union of Austria and Germany was forbidden.
+2. The German army was to be limited to 100,000 men. A small navy was allowed.
 
-4\. All German colonies became mandated territories under the League of Nations.
+3. The union of Austria and Germany was forbidden.
 
-5\. Germany was forced to revoke the Treaty of Brest-Litovsk (with Russia) and Bucharest (Bulgaria).
+4. All German colonies became mandated territories under the League of Nations.
 
-6\. Alsace–Lorraine was returned to France. 7. The former Russian territories of Finland,
+5. Germany was forced to revoke the Treaty of Brest-Litovsk (with Russia) and Bucharest (Bulgaria).
 
-Estonia, Latvia and Lithuania were to be independent
+6. Alsace–Lorraine was returned to France. 
 
-8\. Northern Schleswig was given to Denmark and some small districts to Belgium.
+7. The former Russian territories of Finland,Estonia, Latvia and Lithuania were to be independent
 
-9\. Poland was recreated. 10. The Rhineland was to be occupied by the
+8. Northern Schleswig was given to Denmark and some small districts to Belgium.
 
-Allies. The area on the east bank of the Rhine was to be demilitarized.
+9. Poland was recreated. 
 
-President Wilson laid down his Fourteen Points, which were to be followed by the Allies. The most important one he highlighted was the need for ‘a general association of nations for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states like’.  
+10. The Rhineland was to be occupied by the Allies. The area on the east bank of the Rhine was to be demilitarized.
+
+>President Wilson laid down his Fourteen Points, which were to be followed by the Allies. The most important one he highlighted was the need for ‘a general association of nations for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states like’.  
 
 Separate treaties were drawn up and signed by the Allies with Austria, Hungary, Bulgaria and Turkey. The Treaty with Turkey (Treaty of Sevres), though accepted by the Sultan, failed because of the resistance of Mustafa Kemal Pasha and his followers.
 
@@ -508,20 +230,13 @@ Mustafa Kemal Pasha played a remarkable role for Turkey’s rebirth as a nation.
 
 **Impact on India**
 
-The First World War had a significant impact on India. The British recruited a vast contingent of Indians to serve in Europe, Africa and West Asia. After the War, the soldiers came back with new ideas which had an impact on the Indian society. India contributed £ 230 million in cash and over £ 125 million in loans towards war expenses. India also sent war materials to the value £ 250 million. This caused enormous economic distress. There were grain riots as poor people looted shops. Towards the
-
-
-
-
-  
-
-end of the War India too suffered under the world-wide epidemic of influenza. (£ - symbol of Pound sterling)
+The First World War had a significant impact on India. The British recruited a vast contingent of Indians to serve in Europe, Africa and West Asia. After the War, the soldiers came back with new ideas which had an impact on the Indian society. India contributed £ 230 million in cash and over £ 125 million in loans towards war expenses. India also sent war materials to the value £ 250 million. This caused enormous economic distress. There were grain riots as poor people looted shops. Towards the end of the War India too suffered under the world-wide epidemic of influenza. (£ - symbol of Pound sterling)
 
 The War conditions led to the rise of Home Rule Movement in India. The Congress was reunited during the war.
 
 India and Indians had taken an active part in the War believing that Britain would reward India's loyalty. But only disappointment was in store.Thus the War had multiple effects on Indian society, economy and polity.
 
-**1.4 Russian Revolution and its Impact**
+## 1.4 Russian Revolution and its Impact
 
 **Introduction**
 
@@ -529,11 +244,11 @@ The biggest outcome of the War, the Russian revolution, was unique in world hist
 
 Russia were brought to a head by the vast losses and sufferings caused by the War. There were really two revolutions in the year 1917, one in March and the other in November. On the abdication of the Tsar the bourgeois government which followed, wanted to continue the war. But the people were against it. So there was a second great uprising under the guidance their leader Lenin, who seized power and established a communist government in Russia.
 
-**Causes of the Revolution Social Causes**
+**Causes of the Revolution** 
 
-In Russia Peter the Great and Catherine II attempted westernisation without changing the social conditions. The Russian peasants were serfs tied to lands owned by wealthy Russians. After Russia’s defeat in the Crimean War, some reforms were introduced. In 1861 Tsar Alexander II abolished serfdom and emancipated the serfs. But they were not given enough land to subsist. These peasants became the powder keg for the revolution. The labourers and workers whose number had increased on  
+**Social Causes**
 
-account of industrialisation were aggrieved as they got very low wages.
+In Russia Peter the Great and Catherine II attempted westernisation without changing the social conditions. The Russian peasants were serfs tied to lands owned by wealthy Russians. After Russia’s defeat in the Crimean War, some reforms were introduced. In 1861 Tsar Alexander II abolished serfdom and emancipated the serfs. But they were not given enough land to subsist. These peasants became the powder keg for the revolution. The labourers and workers whose number had increased on account of industrialisation were aggrieved as they got very low wages.
 
 **Role of Revolutionaries**
 
@@ -541,33 +256,28 @@ The spread of revolutionary ideas among the intelligentsia and their repression 
 
 **Autocracy of the Tsar**
 
-Tsar Nicholas II of Romanov dynasty had little experience of government. His wife Tsarina Alexandra was a dominant personality and Nicholas was under her strong influence. Determined that Russia should not be left out in the scramble for colonial possessions, Nicholas encouraged Russian expansion in Manchuria. This provoked a war with Japan in 1904. The resulting Russian defeat led to strikes and riots. On 22 January 1905 Father Gapon, a priest, organised a march of men, women and children on the Tsar’s Winter Palace in St. Petersburg demanding a representative national assembly and agrarian and industrial reforms. But police and soldiers fired on the procession. Hundreds were killed and many thousands wounded. The events of this day (known as Bloody Sunday) led to riots, strikes and violence. Nicholas was forced to grant a constitution and establish a parliament, the Duma. This was no longer satisfactory to the left-wing parties that formed a Soviet (council) of worker's delegates in St Petersburg, led by Trotsky.
+Tsar Nicholas II of Romanov dynasty had little experience of government. His wife Tsarina Alexandra was a dominant personality and Nicholas was under her strong influence. 
 
-**Opposition to Tsar and Dissolution of Duma**
+![Tsar Nicholas II](8.png)
 
-The outbreak of the First World War had temporarily strengthened the monarchy, as
+Determined that Russia should not be left out in the scramble for colonial possessions, Nicholas encouraged Russian expansion in Manchuria. This provoked a war with Japan in 1904. The resulting Russian defeat led to strikes and riots. On 22 January 1905 Father Gapon, a priest, organised a march of men, women and children on the Tsar’s Winter Palace in St. Petersburg demanding a representative national assembly and agrarian and industrial reforms. But police and soldiers fired on the procession. Hundreds were killed and many thousands wounded. The events of this day (known as Bloody Sunday) led to riots, strikes and violence. Nicholas was forced to grant a constitution and establish a parliament, the Duma. This was no longer satisfactory to the left-wing parties that formed a Soviet (council) of worker's delegates in St Petersburg, led by Trotsky.
 
-Tsar Nicholas II
+**Opposition to Tsar and**
+**Dissolution of Duma**
 
-
-
-
-  
-
-Russia allied to France and Britain. As there was rumour of a palace revolution. Nicholas made himself the Commander-in-Chief of the army. At the end of 1916, Rasputin, who had a domineering influence over the Tsar and the Tsarina, was murdered by a member of the Tsar’s family. The members of the St. Petersburg Soviet were arrested. Whenever the Duma opposed the Tsar’s move, it was dissolved and fresh elections held. Without change of government policy, the fourth Duma ended with the revolution of 1917.
+The outbreak of the First World War had temporarily strengthened the monarchy, as Russia allied to France and Britain. As there was rumour of a palace revolution. Nicholas made himself the Commander-in-Chief of the army. At the end of 1916, Rasputin, who had a domineering influence over the Tsar and the Tsarina, was murdered by a member of the Tsar’s family. The members of the St. Petersburg Soviet were arrested. Whenever the Duma opposed the Tsar’s move, it was dissolved and fresh elections held. Without change of government policy, the fourth Duma ended with the revolution of 1917.
 
 **Popular Uprisings**
 
 The bread shortages among women textile workers, many with husbands in the army, forced them to go on strike anyway and march through the factory areas of Petrograd, the capital of the Russian Empire. Masses of women workers demanding “Bread for workers” waved their arms towards factory workers and shouted “Come out!” “Stop work!” The city’s 400,000 workers joined the movement the next day (24 February).
 
-Revolution of 1917
+![Revolution of 1917](9.png)
 
 **Abdication of Tsar**
 
 The government used the troops to break the strike. But soon mutinies broke out in the barracks. The Tsar ordered a declaration of martial law. But his order was not broadcast in the city, as there was no one to do this job. The Tsar then tried to return to Petrograd. The railway workers stopped his train. The generals at the front and some leaders in Petrograd, frightened by these developments pleaded with the Tsar to abdicate. On 15 March, Nicholas II abdicated.  
 
-The revolutionary Tamil poet Bharathiyar cheerfully welcomed the revolution in Russia by penning these poetic lines…..
-
+>The revolutionary Tamil poet Bharathiyar cheerfully welcomed the revolution in Russia by penning these poetic lines…..
 The Mother Great, the Power supreme, Turned her glance benign towards Russia, The Revolution of the Age, Behold the wonder, rises high The tyrant howling falls down limp, The shoulders of the heavenly gods, Are swelling now with joy and pride, Eyes hot with unshed tears, the demons, Perish. O people of the world, Behold this mighty change!
 
 **Provisional Government**
@@ -579,17 +289,10 @@ There were two parallel bodies to take on government functions. One was of the b
 Lenin was in Switzerland when the revolution broke out. Lenin wanted continued revolution. His slogan of ‘All power to the Soviets’ soon won over the workers’ leaders. Devastated by war time shortages, the people were attracted by the slogan of ‘Bread, Peace and Land.’ But the Provisional government made two grave mistakes. First, it postponed a decision on the demand for the redistribution of land and the other was government decided to continue with the war. Frustrated peasant soldiers deserted their posts and joined those who had resorted to land grabbing. This intensified the rising in Petrograd led by Bolsheviks. The government banned _Pravda_ and arrested all Bolsheviks. Trotsky was also arrested.
 
 
-
-
-  
-
 **Takeover by the Bolshevik Party under Lenin’s leadership**
 
 In October Lenin persuaded the Bolshevik Central Committee to decide on immediate revolution. Trotsky prepared a detailed plan. On 7 November the key government buildings, including the Winter Palace, the Prime Minister’s headquarters, were seized by armed factory workers and revolutionary troops. On 8 November 1917 a new Communist government was in office in Russia. Its head this time was Lenin. The Bolshevik Party was renamed the Russian Communist Party.
 
-Lenin was born in 1870 near the Middle Volga to educated parents. Influenced by the ideas of Karl Marx, Lenin believed that the way for freedom was through mass action. Lenin gained the support of a small majority (bolshinstvo), known as Bolsheviks, which became the Bolshevik Party. His opponents, in minority (menshinstvo), were called Mensheviks.
-
-Lenin
 
 **Outcome of the Revolution**
 
@@ -599,9 +302,9 @@ The Russian Communist Party eliminated illiteracy and poverty in Russia within a
 
 The revolution fired people’s imagination across the world. In many countries, communist parties were formed. The Russian communist government encouraged the colonies to fight for their freedom. Debates over key issues, land reforms, social welfare, workers’ rights, and gender equality started taking place in a global context.
 
-_Pravda_ is a Russian word meaning “Truth”. It was the official newspaper of the Communist Party of the Soviet Union from 1918 to 1991.
+>Pravda is a Russian word meaning “Truth”. It was the official newspaper of the Communist Party of the Soviet Union from 1918 to 1991.
 
-**1.5 League of Nations**
+## 1.5 League of Nations
 
 **Structure and Composition**
 
@@ -609,14 +312,7 @@ The Covenant of the League was worked out at the Paris Peace Conference and incl
 
 The League which was formed in 1920 consisted of five bodies: the Assembly, the Council, the Secretariat, the Permanent Court of Justice, and the International Labour Organisation. Each member-country was represented in the Assembly. The Council was the executive of the League. Britain, France, Italy, Japan and the United States were originally declared permanent members of the Council. Each member had one vote and since all decisions had to be unanimous, even the small nations possessed the right of veto.
 
-The secretariat of the League of Nations was located at Geneva. Its first Secretary General was Sir Eric Drummond from Britain. The staff of the secretariat was appointed by the Secretary General in consultation with the Council. The International Court of Justice was set up
-
-
-
-
-  
-
-in The Hague. The court was made of fifteen judges. The International Labour Organisation comprised a secretariat and general conference which included four representatives from each country.
+The secretariat of the League of Nations was located at Geneva. Its first Secretary General was Sir Eric Drummond from Britain. The staff of the secretariat was appointed by the Secretary General in consultation with the Council. The International Court of Justice was set up in The Hague. The court was made of fifteen judges. The International Labour Organisation comprised a secretariat and general conference which included four representatives from each country.
 
 **Objectives of the League**
 
@@ -645,214 +341,3 @@ Since it lacked the military power of its own, it could not enforce its decision
 The founders of this peace organisation underestimated the power of nationalism. The principle of “collective security’ could not be applied in actual practice.
 
 When Italy, Japan and Germany, headed by dictators, refused to be bound by the orders of the League, Britain and France were the only major powers to act decisively.
-
-
-
-
-  
-
-**SUMMARY**
-
-„„ Capitalistic countries’ ever growing demand fo for colonies and the resultant clashes amongst
-
-„„ Rise of Japan as an Imperial Power in Asia is h
-
-„„ Division of Europe into two warring camps a are detailed.
-
-„„ Important factors responsible for the outbreak of Nationalism, aggressive attitude of German of its territories, Alsace and Lorrain, power po
-
-„„ America’s entry into the War in the context of decisive victory won by the Allies are outlined
-
-„„ Paris Peace Conference and the provisions of V
-
-„„ Fallout of the First World War, with focus on R elaborated.
-
-„„ First world peace organisation the League o promoting peace are critically examined.
-
-**GLOSSARY**
-
-**monopoly** exclusive possession or
-
-**devastating** highly destructive or da
-
-**jingoism** blind patriotism, especi pursuit of aggressive for
-
-**chauvinism** extreme patriotism
-
-**kultur** thinking highly of Germ and culture
-
-**repulse** drive back
-
-**torpedo** attack or sink (a ship) w
-
-**bourgeois**
-
-characteristic of the mid typically with reference t materialistic values or co attitudes
-
-**intelligentsia**
-
-intellectuals or highly e as a group, especially w as possessing culture an influence  
-
-r markets and raw materials leading to scramble great powers in Europe are discussed.
-
-ighlighted
-
-nd the resultant alliances and counter-alliances
-
-of World War I such as growth of violent forms y, France’s hostility towards Germany for the loss litics in Balkans are explained.
-
-launch of submarine battles by Germany and the .
-
-ersailles Treaty are analysed.
-
-ussian Revolution causes, course and impact are
-
-f Nations and its role in preventing wars and
-
-control **_முற்றுரிமை_**
-
-mage **_பேரழிவு_**
-
-ally in the eign policy
-
-**_கண்மூடித்தனைான நாட்டுபேற்று_**
-
-**_அதிதீவிரபேற்று_**
-
-an civilization ஜெரைானியக் கலாச்ாரதம்த **_மிக உயர்ாக நிமனபேது_**
-
-**_எதிரிமய விரட்டிஅடித்தல்_**
-
-ith a torpedo **_மூழகடி_**
-
-dle class, o its perceived nventional மு்தலாளிதது்ம்
-
-ducated people hen regarded d political
-
-**_அறிவுஜீவிகள், நுண்்ணறி்ாளரகள்_**
-
-
-
-
-
-
-| mo no poly |ex clusi ve p os s es sio n o r co nt rol |¯ä²மை |
-|------|------|------|
-| devastating |hig h ly des t r uc t ive o r d amage |பேர¶ |
-| jingo ism |blin d p at r io t ism, es p e ci a l ly in t hepur sui t o f a g g res si ve f oreig n p olic y |கÙÂ}தEனைான நாØ©பேä² |
-| chauvinism |ext rem e p at r io t ism |அரபேä² |
-| kult ur |t hin k in g hig h ly o f G er man ci v i liza t io nand c u ltur e |ஜெர ைா யÔ கலாச் ாரத மEக உ யர் ாக  மன பே« |
-| repulse |dr ive b ac k |எ மய  ரØ}அ}தEà |
-| to rpedo |att ac k o r sin k (a s hi p) w it h a t or p e do |Âழ க} |
-| bo urgeo is |characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes |¯Eலா த«் Ý |
-| intelligent sia |in tel le c tu a ls o r hig h ly e duc ate d p e opleas a g roup, es p e ci a l ly w hen r ega rde das p os s es sin g c u ltur e a nd p oli t ic a linf luen ce |அ¶கã,¬ÙD ் ாளர கã |
-  
-
-**I Choose the correct answer**
-
-1\. What were the three major empires shattered by the end of First World War? a) Germany, Austria Hungary, and the
-
-Ottomans b) Germany, Austria-Hungary, and Russia c) Spain, Portugal and Italy d) Germany, Austria-Hungary, Italy
-
-2\. Which country emerged as the strongest in East Asia towards the close of nineteenth century? a) China b) Japan c) Korea d) Mongolia
-
-3\. Who said “imperialism is the highest stage of capitalism”? a) Lenin b) Marx c) Sun Yat-sen d) Mao Tsetung
-
-4\. What is the Battle of Marne remembered for? a) air warfare b) trench warfare c) submarine warfare d) ship warfare
-
-5\. To which country did the first Secretary General of League of Nations belong? a) Britain b) France c) Dutch d) USA
-
-6\. Which country was expelled from the League of Nations for attacking Finland? a) Germany b) Russia c) Italy d) France
-
-**II Fill in the blanks** 1\. Japan forced a war on China in the year
-
-. 2. The new state of Albania was created
-
-according to the Treaty of signed in May 1913.
-
-3\. Japan entered into an alliance with England in the year .
-
-4\. In the Balkans had mixed population.
-
-**EXERCISE**  
-
-5\. In the battle of Tannenberg suffered heavy losses.
-
-6\. as Prime Minister represented France in Paris Peace Conference.
-
-7\. Locarno Treaty was signed in the year .
-
-**III Choose the correct statement**
-
-1. i) The Turkish Empire contained many non-Turkish people in the Balkans. ii) Turkey fought on the side of the central powers iii) Britain attacked Turkey and captured Constantinople iv) Turkey’s attempt to attack Suez Canal but were repulsed. a) i) and ii) are correct b) i) and iii) are correct c) iv) is correct d) i), ii) and iv) are correct
-
-2. **Assertion**: Germany and the United States were producing cheaper manufactured goods and capturing England’s markets. **Reason:** Both the countries produced required raw material for their industries. a) Both A and R are correct b) A is right but R is not the correct reason c) Both A and R are wrong d) R is right but A is wrong.
-
-3. **Assertion**: The first European attempts to carve out colonies in Africa resulted in bloody battles. **Reason: There was stiff resistance from the** native population. a) Both A and R are correct b) A is right but R is not the correct reason c) Both A and R are wrong d) R is right but A is wrong.
-
-**IV Match the following** 1\. Treaty of Brest- Litovsk - Versailles 2. Jingoism - Turkey 3. Kemal Pasha - Russia with
-
-Germany 4. Emden - England 5. Hall of Mirrors - Madras
-
-
-
-
-  
-
-**V Answer briefly**
-
-1\. How do you assess the importance of Sino-Japanese War?
-
-2\. Name the countries in the Triple Entente. 3. What were the three militant forms of
-
-nationalism in Europe? 4. What do you know of trench warfare? 5. What was the role of Mustafa Kemal
-
-Pasha? 6. List out any two causes for the failure of
-
-the League of Nations. **VI Answer the following in detail** 1\. Discuss the main causes of the First
-
-World War. 2. Highlight the provisions of the Treaty of
-
-Versailles relating to Germany. 3. Explain the course of the Russian
-
-Revolution under the leadership of Lenin.
-
-4\. Estimate the work done by the League of Nations.
-
-**VII Activity**
-
-1\. Students can be taught to mark the places of battles and the capital cities of the countries that were engaged in the War.
-
-**Steps** • Open the Browser and type the URL given b • Click on ‘Learn’ in menu and Select ‘Interact • Drag the Time line bar and click to see the e
-
-**Website URL:** https://www.theworldwar.org/
-
-**ICT CORNER**
-
-Through this activity you will learn about Time Line Events of World War -I
-
-**Outbreak of World Wa**  
-
-**VIII Map Work**
-
-**Mark the following countries on the world map.**
-
-1\. Great Britain 2. Germany 3. France 4. Italy 5. Morocco 6. Turkey 7. Serbia 8. Bosnia 9. Greece 10. Austria-Hungary 11. Bulgaria 12. Rumania
-
-**REFERENCE BOOKS**
-
-1. R.D. Cormvell, _World History in the Twentieth Century_, London: Longman, 1972
-
-2\. David Thomson, Europe since Napoleon, Harmondsworth_:_ Penguin, 1990
-
-3\. Eric Hobsbawm,The Age of extremes, 1914 – 1991, London: Abacus, 1994.
-
-4\. Hew Strachan, The Oxford Illustrated _History of the First World War_. Oxford: Oxford University Press, 2014).
-
-elow (or) Scan the QR Code. ive Timeline’ vents
-
-**r I and Its Aftermath**
-
-
-
-
