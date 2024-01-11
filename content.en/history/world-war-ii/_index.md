@@ -2,18 +2,7 @@
 title: "World War II"
 weight: 3
 ---
-<span style="display:cover;">![heading](heading.png)
-</span>
-
-**Learning Objectives**
-
-- To acquaint ourselves about the political and economic developments after World War I which ultimately led to World War II
-- To understand the course of the War, in general; in particular, to learn the main events which were turning points in the War
-- To know the effects of World War II
-- To understand the “holocaust”, and the mass killing of Jews in Nazi
-- To acquire knowledge about the international organisations established after the
-
-**Introduction**
+# Introduction
 
 The first half of the twentieth century witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars because of the extended areas of the conflict and the very high death toll of civilians as well as armed combatants. Both wars were fought on several fronts across Europe, Asia and Africa.
 
